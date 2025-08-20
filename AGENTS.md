@@ -1,7 +1,7 @@
-# AGENTS.md
+# AGENTS.md for vixterra
 
 ## Purpose
-The agentic coding assistant provides comprehensive support for developer queries specific to the San Diego 3D Geospatial Visualizer MVP project. This is achieved by synthesizing project requirements, technical architecture, and operational guidance to ensure accurate implementation of the 3D property visualization web application targeting San Diego, CA.
+The agentic coding assistant provides comprehensive support for developer queries specific to the "vixterra" project. This is achieved by synthesizing project requirements, technical architecture, and operational guidance to ensure accurate implementation of the 3D property visualization web application targeting San Diego, CA.
 
 ## Project Overview
 The San Diego 3D Geospatial Visualizer is an interactive 3D web application designed for real estate and development visualization. The project creates an immersive experience by leveraging diverse geographic data sources and generative methods to fill data gaps. By focusing on a single, contained region like San Diego, CA, the project streamlines data acquisition, processing, and 3D rendering for efficient and performant operation.
